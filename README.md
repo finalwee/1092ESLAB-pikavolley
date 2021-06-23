@@ -1,6 +1,8 @@
 # 1092mbed_final_project
 Modify from [https://github.com/NTUEE-ESLab/2020-Pikachu-volleyball](https://github.com/NTUEE-ESLab/2020-Pikachu-volleyball)
 
+DEMO [https://youtu.be/EMX9icN5-eM](https://youtu.be/EMX9icN5-eM)
+
 ## Main Architecture
 ![](./stuff/main_architecture.png)\
 Take from [https://github.com/NTUEE-ESLab/2020-Pikachu-volleyball](https://github.com/NTUEE-ESLab/2020-Pikachu-volleyball)
