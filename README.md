@@ -33,7 +33,8 @@ If want to add the second player `ws_server_2p.py`
 ### 2. Start Web Game
 `cd pikachu-volleyball && npm start`\
 or\
-`cd pikachu-volleyball` then `npm start`
+`cd pikachu-volleyball` then `npm start`\
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 ### 3. Power on STM32
 Make sure you had written the right program into STM32. Please reference to [./STM32-pikavolley/README.md](./STM32-pikavolley/README.md) for the STM32 work logic.
