@@ -20,7 +20,7 @@ Make sure your device can run python. If not, pls set up your python first. Reco
 Install websockets module. If you are missing any module, pls install it.
 
 ### STM32
-Import the whole folder [stm32-pikavolley](./stm32-pikavolley) or import by URL: https://github.com/finalwee/STM32-pikavolley.
+Import by URL: https://github.com/finalwee/STM32-pikavolley.
 After that, write the program into STM32.
 
 ## Start Up
