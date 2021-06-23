@@ -3,7 +3,7 @@ This project is use for B-L475E-IOT01A Discovery kit ([User Manual](https://esys
 Modify from [2020-Pikachu-volleyball](https://github.com/NTUEE-ESLab/2020-Pikachu-volleyball).
 
 ## Guide
-Just import this folder into Mbed Studio.
+Import URL: https://github.com/finalwee/STM32-pikavolley .
 
 ## Libraries
 [BSP_B-L475E-IOT01](https://os.mbed.com/teams/ST/code/BSP_B-L475E-IOT01/)
