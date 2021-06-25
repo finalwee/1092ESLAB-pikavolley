@@ -31,7 +31,7 @@ Please make sure, all pre-build is done.
 
 ### 1. Start Python Server
 1 player: `python3 ws_server_1p.py`\
-If want to add the second player `ws_server_2p.py`
+2 player: `python3 ws_server_2p.py`
 
 ### 2. Start Web Game
 `cd pikachu-volleyball && npm start`\
