@@ -1,12 +1,15 @@
 # 1092mbed_final_project
+Modify from [https://github.com/NTUEE-ESLab/2020-Pikachu-volleyball](https://github.com/NTUEE-ESLab/2020-Pikachu-volleyball)
+
+DEMO [https://youtu.be/EMX9icN5-eM](https://youtu.be/EMX9icN5-eM)
 
 ## Main Architecture
-![](./stuff/main_architecture.png)
+![](./stuff/main_architecture.png)\
 Take from [https://github.com/NTUEE-ESLab/2020-Pikachu-volleyball](https://github.com/NTUEE-ESLab/2020-Pikachu-volleyball)
 
-## Guide
-`git clone https://github.com/finalwee/1092mbed_final_project.git`
-Clone the whole repository to your local place.
+## Pre-build Guide
+`git clone https://github.com/finalwee/1092mbed_final_project.git`\
+Run this command to clone the whole repository to your local place.
 
 ### Build Web game
 `cd pikachu-volleyball && npm install`\
@@ -15,7 +18,7 @@ or\
 Install all modules required by pikachu-volleyball. If you get any errors, pls fix them.
 
 ### Python Server
-Make sure your device can run python. If not, pls set up your python first. Recommend [python3](https://www.python.org/downloads/).
+Make sure your device can run python. If not, pls set up your python first. Recommend [python3](https://www.python.org/downloads/).\
 `pip3 install websockets`\
 Install websockets module. If you are missing any module, pls install it.
 
@@ -24,11 +27,11 @@ Import by URL: https://github.com/finalwee/STM32-pikavolley.
 After that, write the program into STM32.
 
 ## Start Up
-Please make sure, all pre-build is done.\
+Please make sure, all pre-build is done.
 
 ### 1. Start Python Server
 1 player: `python3 ws_server_1p.py`\
-If want to add the second player `ws_server_2p.py`
+2 player: `python3 ws_server_2p.py`
 
 ### 2. Start Web Game
 `cd pikachu-volleyball && npm start`\
